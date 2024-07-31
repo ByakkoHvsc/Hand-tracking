@@ -1,4 +1,7 @@
-# Hand Tracking with MediaPipe
+<div align="center">
+  <img src="65ae277a33174.webp" alt="Weather_logo" style="width: 350px;"/>
+    <h1>Hand Tracking with MediaPipe</h1>
+</div>
 
 This project demonstrates hand tracking using MediaPipe and OpenCV in Python. It includes two scripts: one for basic hand tracking and another that encapsulates functionality within a `handDetector` class.
 
